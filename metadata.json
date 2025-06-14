@@ -1,0 +1,5 @@
+{
+  "name": "Aero Image Generator",
+  "description": "A modern, minimalist image generator using Imagen and Gemini for prompt enhancement, featuring an Aero-inspired UI.",
+  "requestFramePermissions": []
+}
